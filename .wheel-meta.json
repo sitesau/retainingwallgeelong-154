@@ -1,0 +1,22 @@
+{
+  "wheel_id": 492,
+  "structure": "umbrella",
+  "slug": "retainingwallgeelong-154",
+  "project": "retaining-wall-builders-geelong-pros-and-cons-10fb7096f7aba867d",
+  "parent_t1_ref": "retainingwallgeelong-010",
+  "node_role": "buffer",
+  "money_target": "retainingwallgeelong.au",
+  "primary_kw": "retaining wall builders geelong pros and cons",
+  "intended_url": "https://aumedia.neocities.org/retaining-wall-builders-geelong-pros-and-cons-10fb7096f7aba867d/",
+  "tier": "T2",
+  "writeback_nonce": "74eb4269ec8dc583",
+  "links": [
+    {
+      "target_url": "https://s3.ap-southeast-2.amazonaws.com/retainingwallgeelong-010/retaining-wall-builders-geelong.html",
+      "anchor": "Retaining Wall Builders Geelong: A Practical Project Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
